@@ -51,9 +51,14 @@
 		6E627BE82A6D16040038B2DE /* IOSChefRentApp */ = {
 			isa = PBXGroup;
 			children = (
+				6EA0262B2A711E8600C3C451 /* Models */,
+				6EA0262A2A711E8200C3C451 /* Views */,
+				6EA026292A711E4200C3C451 /* Core */,
+				6EA026282A711E3900C3C451 /* Product */,
+				6EA026262A711E2B00C3C451 /* Resources */,
+				6EA026252A711E2400C3C451 /* Utils */,
 				6E627BE92A6D16040038B2DE /* IOSChefRentAppApp.swift */,
 				6E627BEB2A6D16040038B2DE /* ContentView.swift */,
-				6E627BED2A6D16050038B2DE /* Assets.xcassets */,
 				6E627BEF2A6D16050038B2DE /* Preview Content */,
 			);
 			path = IOSChefRentApp;
@@ -62,9 +67,52 @@
 		6E627BEF2A6D16050038B2DE /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
+				6E627BED2A6D16050038B2DE /* Assets.xcassets */,
 				6E627BF02A6D16050038B2DE /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		6EA026252A711E2400C3C451 /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
+		6EA026262A711E2B00C3C451 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		6EA026282A711E3900C3C451 /* Product */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Product;
+			sourceTree = "<group>";
+		};
+		6EA026292A711E4200C3C451 /* Core */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Core;
+			sourceTree = "<group>";
+		};
+		6EA0262A2A711E8200C3C451 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		6EA0262B2A711E8600C3C451 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
